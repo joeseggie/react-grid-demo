@@ -1,4 +1,4 @@
-React sticky table demo
+## React sticky table demo
 
 Testing packages that I can use for stick tables in React.
 
